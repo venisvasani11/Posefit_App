@@ -1,4 +1,4 @@
-# 🏋️‍♂️ Fitness, Wellness & Holistic Care Platform
+# 🏋️‍♂️ Posefit App
 
 A high-performance, feature-packed cross-platform mobile application built using **Flutter**, **BLoC Pattern**, and **Clean Architecture**. This comprehensive health platform combines custom workout routines, personalized meal planning, daily skincare & hair care trackers, mindfulness meditation, period health tracking, and real-time community chat — all in a beautifully designed, offline-first experience.
 
