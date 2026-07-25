@@ -13,13 +13,13 @@ A high-performance, feature-packed cross-platform mobile application built using
 | <img src="screenshots/login.png" width="200"/> | <img src="screenshots/Signup.png" width="200"/> | <img src="screenshots/verification.png" width="200"/> | <img src="screenshots/Home.png" width="200"/> |
 
 
-| Workouts & Tracking | Meal & Calorie Planner | Face & Hair Care Routine | Meditation & Mindfulness |
+| Workouts | Meals | Face & Hair Care Routine | Meditation & Mindfulness |
 | :---: | :---: | :---: | :---: |
-| <img src="screenshots/workout.png" width="200"/> | <img src="screenshots/meals.png" width="200"/> | <img src="screenshots/care.png" width="200"/> | <img src="screenshots/meditation.png" width="200"/> |
+| <img src="screenshots/workout.png" width="200"/> | <img src="screenshots/Meal.png" width="200"/> | <img src="screenshots/facecare.png" width="200"/> | <img src="screenshots/Meditation.png" width="200"/> |
 
-| Manifestation Journal | Real-Time Chat & Support | Offline Progress | User Profile |
+| Manifestation Journal | Friend Chats | Period Cycle | User Profile |
 | :---: | :---: | :---: | :---: |
-| <img src="screenshots/journal.png" width="200"/> | <img src="screenshots/chat.png" width="200"/> | <img src="screenshots/progress.png" width="200"/> | <img src="screenshots/profile.png" width="200"/> |
+| <img src="screenshots/manifestation.png" width="200"/> | <img src="screenshots/chat.png" width="200"/> | <img src="screenshots/period-cycle.png" width="200"/> | <img src="screenshots/profile.png" width="200"/> |
 
 ---
 
