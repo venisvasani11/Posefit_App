@@ -19,7 +19,7 @@ A high-performance, feature-packed cross-platform mobile application built using
 
 | Manifestation Journal | Friend Chats | Period Cycle | User Profile |
 | :---: | :---: | :---: | :---: |
-| <img src="screenshots/manifestation.png" width="200"/> | <img src="screenshots/chat.png" width="200"/> | <img src="screenshots/period-cycle.png" width="200"/> | <img src="screenshots/profile.png" width="200"/> |
+| <img src="screenshots/manifestation.png" width="200"/> | <img src="screenshots/Chat.png" width="200"/> | <img src="screenshots/period-cycle.png" width="200"/> | <img src="screenshots/Profile.png" width="200"/> |
 
 ---
 
