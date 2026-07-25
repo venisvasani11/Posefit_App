@@ -8,18 +8,36 @@ A high-performance, feature-packed cross-platform mobile application built using
 ---
 
 ## 📱 App Screenshots & Visual Walkthrough
+| Splash | Intro screen 1 | Intro screen 2 | Intro screen 3 | Intro screen 4 |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="screenshots/Splash.jpg" width="200"/> | <img src="screenshots/intro_1.png" width="200"/> | <img src="screenshots/intro_2.png" width="200"/> | <img src="screenshots/intro_3.png" width="200"/> | <img src="screenshots/intro_4.png" width="200"/> |
+
+
 | Login | Sign In | Otp Verification | Home Screen |
 | :---: | :---: | :---: | :---: |
 | <img src="screenshots/login.png" width="200"/> | <img src="screenshots/Signup.png" width="200"/> | <img src="screenshots/verification.png" width="200"/> | <img src="screenshots/Home.png" width="200"/> |
 
+| Question 1 | Question 2 | Question 3 | Question 4 | Question 5 |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="screenshots/Question_step_01.png" width="200"/> | <img src="screenshots/Question_step_02.png" width="200"/> | <img src="screenshots/Question_step_03.jpg" width="200"/> | <img src="screenshots/Question_step_04.png" width="200"/> | <img src="screenshots/Question_step_05.png" width="200"/> |
 
-| Workouts | Meals | Face & Hair Care Routine | Meditation & Mindfulness |
-| :---: | :---: | :---: | :---: |
-| <img src="screenshots/workout.png" width="200"/> | <img src="screenshots/Meal.png" width="200"/> | <img src="screenshots/facecare.png" width="200"/> | <img src="screenshots/Meditation.png" width="200"/> |
 
-| Manifestation Journal | Friend Chats | Period Cycle | User Profile |
+| Workouts | Workout Detail | Meals | Meal Detail | Activity |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="screenshots/workout.png" width="200"/> | <img src="screenshots/workout_detail.png" width="200"/> | <img src="screenshots/Meal.png" width="200"/> | <img src="screenshots/meal_detail.png" width="200"/> | <img src="screenshots/activity.jpg" width="200"/> |
+
+| Self Care |Self Care Detail | Meditation & Mindfulness | Manifestation |
 | :---: | :---: | :---: | :---: |
-| <img src="screenshots/manifestation.png" width="200"/> | <img src="screenshots/Chat.png" width="200"/> | <img src="screenshots/period-cycle.png" width="200"/> | <img src="screenshots/Profile.png" width="200"/> |
+| <img src="screenshots/facecare.png" width="200"/> |<img src="screenshots/selfcare_detail.png" width="200"/> | <img src="screenshots/Meditation.png" width="200"/> | <img src="screenshots/manifestation.png" width="200"/> |
+
+| Friend Chats | Friend Chats Detail | Period Cycle | Period month cycle |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshots/Chat.png" width="200"/> | <img src="screenshots/chat_view.png" width="200"/> | <img src="screenshots/period-cycle.png" width="200"/> | <img src="screenshots/Period_month_cycle.png" width="200"/> |
+
+
+| Todo | Community | LeaderBoard | Notifications | User Profile |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="screenshots/Todo.png" width="200"/> | <img src="screenshots/community.png" width="200"/> | <img src="screenshots/Leaderboard.png" width="200"/> | <img src="screenshots/Notifications.png" width="200"/> | <img src="screenshots/Profile.png" width="200"/> |
 
 ---
 
