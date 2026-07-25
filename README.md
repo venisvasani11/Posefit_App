@@ -8,6 +8,10 @@ A high-performance, feature-packed cross-platform mobile application built using
 ---
 
 ## 📱 App Screenshots & Visual Walkthrough
+| Login | Sign In | Otp Verification | Home Screen |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshots/login.png" width="200"/> | <img src="screenshots/signup.png" width="200"/> | <img src="screenshots/verification.png" width="200"/> | <img src="screenshots/Home.png" width="200"/> |
+
 
 | Workouts & Tracking | Meal & Calorie Planner | Face & Hair Care Routine | Meditation & Mindfulness |
 | :---: | :---: | :---: | :---: |
